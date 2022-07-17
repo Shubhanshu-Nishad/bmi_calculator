@@ -62,4 +62,9 @@ Contributions are what make the open source community such an amazing place to b
 <!-- DEMO -->
 ## Demo
 ![](demo/1.jpg)
+![](demo/2.jpg)
+![](demo/3.jpg)
+![](demo/4.jpg)
+![](demo/5.jpg)
+![](demo/6.jpg)
 
