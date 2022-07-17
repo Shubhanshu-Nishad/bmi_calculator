@@ -1,12 +1,5 @@
 # BMI Calculator
  
- <!-- Projects Shields -->
- <!-- 
- *** To Make these shields visit this website 
- *** https://shields.io/ 
- -->
- 
-[![contributors][contributors-shield]][contributors-url] [![Stargazers][stars-shield]][stars-url] [![Forks][forks-shield]][forks-url] [![Issues][issues-shield]][issues-url] [![MIT License][license-shield]][license-url]
 
 
 <!-- TABLE OF CONTENTS -->
