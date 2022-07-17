@@ -1,10 +1,10 @@
 # BMI Calculator
-  <!-- Projects Shields -->
+ 
+ <!-- Projects Shields -->
  <!-- 
  *** To Make these shields visit this website 
  *** https://shields.io/ 
  -->
-
  
 [![contributors][contributors-shield]][contributors-url] [![Stargazers][stars-shield]][stars-url] [![Forks][forks-shield]][forks-url] [![Issues][issues-shield]][issues-url] [![MIT License][license-shield]][license-url]
 
@@ -14,7 +14,7 @@
   - [About The Project](#about-the-project)
   - [Request Features](#request-features)
   - [Contributing](#contributing)
-  -[Demo](#demo)
+  - [Demo](#demo)
   - [License](#license)
 
 <!-- ABOUT THE PROJECT -->
@@ -69,12 +69,8 @@ Contributions are what make the open source community such an amazing place to b
 
 <!-- DEMO -->
 ## Demo
-![Alt text](relative/path/to/img.jpg?raw=true "Title")
 
-<!-- LICENSE -->
-## License
-
-Distributed under the MIT License. See [LICENSE](https://github.com/Shubhanshu-Nishad/bmi_calculator/blob/main/LICENSE.md) for more information.
-
+https://drive.google.com/file/d/1CXMwB0O4FrCOLqDQGZPEgFB_0zCeQsOG/view?usp=sharing
+https://drive.google.com/file/d/1V__wOyXLL8NcvF1efLGX3nJeyD0cLSZV/view?usp=sharing
 
 
