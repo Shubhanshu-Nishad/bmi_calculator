@@ -14,7 +14,7 @@
   - [About The Project](#about-the-project)
   - [Request Features](#request-features)
   - [Contributing](#contributing)
-  - [License](#license)
+  - [Demo](#demo)
 
 <!-- ABOUT THE PROJECT -->
 ## **About The Project**
@@ -52,7 +52,7 @@ risk may significantly increases.
 
 <!-- FEATURE REQUEST -->
 ## Request Features
-See the [open issues](https://github.com/FatalError98/BMI-Calculator/issues) for a list of proposed features (and known issues).
+See the [open issues](https://github.com/Shubhanshu-Nishad/bmi_calculator/issues) for a list of proposed features (and known issues).
 
 
 <!-- CONTRIBUTING -->
@@ -66,30 +66,6 @@ Contributions are what make the open source community such an amazing place to b
 4. Push to the Branch (`git push origin feature/NewFeature`)
 5. Open a Pull Request
 
-<!-- LICENSE -->
-## License
+<!-- DEMO -->
+## Demo
 
-Distributed under the MIT License. See [LICENSE](https://github.com/FatalError98/BMI-Calculator/blob/main/LICENSE.md) for more information.
-
-
-
-<!-- MARKDOWN LINKS & IMAGES -->
-<!-- Contributors Shield and Url -->
-[contributors-shield]: https://img.shields.io/github/contributors/FatalError98/BMI-Calculator?color=green&style=flat-square
-[contributors-url]: https://github.com/FatalError98/BMI-Calculator/graphs/contributors
-
-<!-- license Shield and Url -->
-[license-shield]: https://img.shields.io/github/license/FatalError98/BMI-Calculator?style=flat-square
-[license-url]: https://github.com/FatalError98/BMI-Calculator/blob/main/LICENSE.md
-
-<!-- issues Shield and Url -->
-[issues-url]:https://github.com/FatalError98/BMI-Calculator/issues
-[issues-shield]: https://img.shields.io/github/issues/FatalError98/BMI-Calculator?color=yellow&style=flat-square
-
-<!-- stars Shield and Url -->
-[stars-shield]: https://img.shields.io/github/stars/FatalError98?style=flat-square
-[stars-url]: https://github.com/FatalError98/BMI-Calculator/stargazers
-
-<!-- forks Shield and Url -->
-[forks-shield]: https://img.shields.io/github/forks/FatalError98/BMI-Calculator?style=flat-square
-[forks-url]: https://github.com/Fenil-Nividata/FlutterBMI/network/members
